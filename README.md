@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi! I am Connor, a 🤓 nerdy 🦅 Eagle Scout who is an aspiring 💻 Web Developer. I love to reverse engineer and learn new things everyday. I attend the University of Texas at Dallas, and am going for a degree in Computer Science.
 
-<!--
-**SimplyCon/SimplyCon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**What I have learned on my own...**
+- Node.js
+- Javascript
+- HTML
+- CSS
 
-Here are some ideas to get you started:
+**What I want to learn...**
+- Python
+- C++
+- and more...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I have used...**
+- GCP
+- Firebase
+- Autocode (Stdlib)
+- Netlify
+- GitHub
+- Prob some more.
